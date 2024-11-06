@@ -9,3 +9,4 @@ You can add tasks to the lsit, make them as done, and remove them with a button.
 1) Clone the repository
 2) Run npm install
 3) Go to the local host :)
+4) check it out at: https://todo-list-highseas.vercel.app/
